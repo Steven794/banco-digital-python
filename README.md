@@ -2,9 +2,12 @@
 Este projeto foi desenvolvido exclusivamente em Python para consolidar conceitos como Programação Orientado a Objeto ou POO, funções, loops, entre outros.
 
 #Funcionalidades:
-•**Consulta de Saldo**: O projeto exibe saldo disponível na conta
-•**Loop de Continuidade**: 
-•**Saques**: Faz saques com erros tratados caso a pessoa ou tente colocar valores negativos, ou tente colocar letras no lugar de números, ou tente fazer saques maiores do que o deposito
+
+**Consulta de Saldo**: O projeto exibe saldo disponível na conta
+
+**Loop de Continuidade**: Após a operação, o sistema valida através de um sub-loop se o usuário deseja realizar uma nova operação ou encerrar o atendimento de forma limpa.
+
+**Saques**: Faz saques com erros tratados caso a pessoa ou tente colocar valores negativos, ou tente colocar letras no lugar de números, ou tente fazer saques maiores do que o deposito
 
 **Tecnologias Utilizadas**
 
